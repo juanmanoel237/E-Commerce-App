@@ -1,7 +1,7 @@
 .navbar {
   display: flex;
   justify-content: space-around;
-  padding: 12px;
+  padding: 10px;
   box-shadow: 0 1px 3px -2px black;
 }
 .nav-logo {
@@ -11,7 +11,7 @@
 }
 .nav-logo p {
   color: #171717;
-  font-size: 38px;
+  font-size: 20px;
   font-weight: 600;
 }
 .nav-menu {
@@ -48,8 +48,8 @@
 }
 
 .nav-login-cart button {
-  width: 145px;
-  height: 45px;
+  width: 135px;
+  height: 35px;
   outline: none;
   border: 1px solid #7a7a7a;
   border-radius: 75px;
